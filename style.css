@@ -147,6 +147,7 @@ img {
 section {
     min-height: 100vh;
     padding: 10rem 12% 10rem;
+    border-bottom: 10px solid var(--color-light-blue);
 }
 
 .home {
